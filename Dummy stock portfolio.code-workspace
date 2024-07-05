@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../dbmsProject/DBMS_Project/__pycache__"
+		}
+	],
+	"settings": {}
+}
